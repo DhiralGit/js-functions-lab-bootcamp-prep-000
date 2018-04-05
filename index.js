@@ -2,7 +2,7 @@ function happyHolidays() {
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(String) {
-  (String === "Dhiral") return "Happy holidays, ${name}!"
+function happyHolidaysTo(name) {
+  (name === "Dhiral") return "Happy holidays, ${name}!"
 }
 
