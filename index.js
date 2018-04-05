@@ -2,7 +2,7 @@ function happyHolidays() {
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(Dhiral) {
-  Dhiral === (`Happy holidays, ${name}!`);
+function happyHolidaysTo(String) {
+  String === Dhiral (`Happy holidays, ${name}!`);
 }
 
