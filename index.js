@@ -5,4 +5,3 @@ function happyHolidays() {
 function happyHolidaysTo(String) {
   (String === "Dhiral") return "Happy holidays, ${String}!"
 }
-
