@@ -1,3 +1,3 @@
-function happyHolidays(String) {
-  return.String
+function happyHolidays() {
+  return ABC;
 }
