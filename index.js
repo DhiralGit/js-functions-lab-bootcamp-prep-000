@@ -3,6 +3,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(String) {
-  String === Dhiral (`Happy holidays, ${name}!`);
+  String === "Dhiral" (`Happy holidays, ${name}!`);
 }
 
