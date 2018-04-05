@@ -3,5 +3,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(String) {
- return "Happy holidays, ${String}!";
+  var name = 'Dhiral';
+ return "Happy holidays, ${name}!";
 }
