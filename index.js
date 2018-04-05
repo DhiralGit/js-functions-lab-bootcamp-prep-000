@@ -3,6 +3,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Dhiral) {
-  return String(`Happy holidays, ${name}!`);
+  return String.Dhiral(`Happy holidays, ${name}!`);
 }
 
