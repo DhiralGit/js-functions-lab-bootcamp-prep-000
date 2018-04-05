@@ -3,6 +3,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(String) {
-  return.String(`Happy holidays, ${name}!`)
+  return String.(`Happy holidays, ${name}!`)
 }
 
