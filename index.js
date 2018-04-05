@@ -3,6 +3,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Dhiral) {
-  return Dhiral(`Happy holidays, ${name}!`);
+  Dhiral === (`Happy holidays, ${name}!`);
 }
 
